@@ -1,0 +1,5 @@
+export const CHOCOLATE = 'CHOCOLATE'
+export const TIRAMISU = 'TIRAMISU'
+export const COOKIES = 'COOKIES'
+export const DULCE_LECHE = 'DULCE_LECHE'
+export const PITUFO = 'PITUFO'
